@@ -1,5 +1,5 @@
 # Intelligent File Delivery Tool - Proof Of Concept
- - This console tool was designed to OCR documents, extract a value, and save the document as a searchable PDF with the extracted value as document name.
+ - This console tool was designed to OCR TIFF Files, extract a value, and save the document as a searchable PDF with the extracted value as document name.
 
 ## Table of Contents
 * [General Info](#general-information)

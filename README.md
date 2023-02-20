@@ -25,6 +25,9 @@
         - configparser - https://docs.python.org/3/library/configparser.html
         - cv2 - https://pypi.org/project/opencv-python/
 
+- Tesseract Open Source OCR Engine
+    - https://tesseract-ocr.github.io/tessdoc/Downloads.html
+
 ## Features
 The tool provides the following capabilities:
 
@@ -50,7 +53,10 @@ The tool provides the following capabilities:
  
         - pip3 install -r requirements.txt
 
+    - Download and install the Tesseract OCR Engine for windows from https://tesseract-ocr.github.io/tessdoc/Downloads.html
+
 ## Usage
+
 * Running the project from source files;
 
     - Ensure all Dependencies are installed.

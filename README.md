@@ -34,9 +34,9 @@ The tool provides the following capabilities:
 - Output of logging for all functions to txt file.
 
 ## Screenshots
-![Example screenshot](./img/SS1.PNG)
+![Example screenshot](./img/SS1.png)
 
-![Example screenshot](./img/SS2.PNG)
+![Example screenshot](./img/SS2.png)
 
 ## Setup
 

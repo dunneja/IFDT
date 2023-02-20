@@ -61,6 +61,7 @@ The tool provides the following capabilities:
 
     - Ensure all Dependencies are installed.
     - Populate the conf file as per the example entry provided. 
+    - Ensure input documents as in the correct Input/doctype directory. 
     - Run 'python ifdt.py'
     - Check Output dir for output and logs for errors. 
 

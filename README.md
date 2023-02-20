@@ -12,7 +12,7 @@
 
 ## General Information
 - This PoC was developed for the requirements of a customer in the UK&I.
-- The purpose of this PoC Tool is to enable the customer to take 3 x document types (Invoice, Proof of Delivery, Bill Of Materials for example), detect a value in each document type and save the document as a searchable PDF with the extracted value as the document name.
+- The purpose of this PoC Tool is to enable the customer to take 3 x TIFF formatted document types (Invoice, Proof of Delivery, Bill Of Materials for example), detect a value in each document type and save the document as a searchable PDF with the extracted value as the document name.
 - This PoC tool also has the function of detecting the OCR Dict / Zone value. This is then defined in the IFDT.conf file for OCR operations.
 
 ## Technologies Used

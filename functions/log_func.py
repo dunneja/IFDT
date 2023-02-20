@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # ----------------------------------------------------------------------------
-# Filename     : logfunc.py
-# version      : 1.0
-# Created By   : James Dunne (HP UK&I Technology Consultant)
-# Created Date : 14/03/2022
+# Filename     : log_func.py
+# Application  : Intelligent File Delivery Tool.
+# Author       : James Dunne <james.dunne1@gmail.com>
+# License      : MIT-license
+# Comment      : This file is part of IFDT.
 # ----------------------------------------------------------------------------
 # Import Python Modules.
 from datetime import datetime

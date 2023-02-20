@@ -9,7 +9,6 @@
 # ----------------------------------------------------------------------------
 # Import python core modules.
 import os.path
-#from pathlib import Path
 from configparser import ConfigParser
 
 class config_file():
